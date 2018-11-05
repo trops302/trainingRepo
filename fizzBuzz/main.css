@@ -1,0 +1,29 @@
+
+ul {
+    list-style: none;
+    columns: 10; 
+    text-align: center;
+    
+  }
+
+li{         
+        background-color: red;
+        width: 70px;
+        height: 50px;
+        
+        border: 3px solid black;
+        
+        margin: 5px;
+        
+        border-radius: 5px;
+        box-shadow: 3px 3px black;
+
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        
+        font-weight: bold;
+
+  }
+
+  
